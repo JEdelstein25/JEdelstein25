@@ -1,4 +1,5 @@
-## Hi I'm Jesse, I work for @ampcode as an FDE working with big enterprises to help deploy AI for dev productivity
+## Hi I'm Jesse
+I work for @ampcode as an FDE working with big enterprises to help deploy AI for dev productivity
 
 I am specifically interested in building tools that help coding agents search remote sources, parse language specific syntax, and execute changes at scale
 
